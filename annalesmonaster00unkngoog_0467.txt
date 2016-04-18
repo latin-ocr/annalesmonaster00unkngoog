@@ -1,0 +1,42 @@
+smcm Ansam. 401
+
+“ exhibenda, debite, fideliter, et plene, collationari cum AD· 1⁴³⁵·
+“ eorum ¹ transumptis et exemplificatis, ac decretum et
+“ decreta nostra quaecunque in hac parte legitime in·
+“ tet-poni et fieri etiam visuri et audituri, ulteriusque
+“ fieri, statui, et decerni in praemissis, et ea concernen-
+“ tibus, quod juris fuerit, et rationis. Intimes quoque
+“ insuper, seu intimari facias, palam, ² publice, et ex-
+“ presse, praefato Ricardo Whitman, et ejus uxori, prse-
+“ dictis, quibus etiam tenore praesentium sic intimamus,
+“ quod sive ipsi, dicti Ricardus Whitman, et ejus uxor,
+“ coram nobis dictis die et loco comparuerint, sive non,
+“ nos, Ricardus, Compulsor antedictae, eisdem die et loco
+“ praedictis, cum continuatione et prorogatione dierum
+“ tunc sequentium, et locorum, in hujusmodi “Compul-
+“ sorio negotio in omnibus et singulis actis in ipso
+“ negotio gradatim et successive fiendis et habendis,
+“ usque ad finalem expeditionem hujusmodi negotii
+“ inclusive ⁴ procedemus, ipsorum Ricardi Whitman et
+“ ejus uxoris absentia seu contumacia in aliquo non
+“ obstante. De ⁶ diebus vero receptionis praesentium,
+“ ac monitionis et citationis tuarum praedictarum, et si
+‘⁶ dictos Abbatem et Conventum, ⁰ personaliter appre-
+“ hensos, monueriS, et si dictos Ricardum Whitman
+‘⁴ et ejus uxorem praedictam ⁶ personaliter citaveria
+“ modoque et forma earundem, necnon quod feceris in
+‘⁴ praemissis, nos dictis die et loco certifices per tuas
+“ litteras patentes, harum seriem continentes, sigillo
+“ authentico consignatas. In cujus rei testimonium,
+‘⁴ sigillum nostrum, quo utimur, ut Archidiaconus Rof-
+“ fensiS, praesentibus apposuimus. Datum Londomis,
+“ quarto Kalendas Aprilis, anno Domini millesimo
+“ quadringentesimo tricesimo quint0.’'
+
+ 
+
+¹ transumptis in MS. ⁴ procedimus in MS.
+² pulice in MS. ⁶ dibus in MS.
+³ Compulsoria· in MS. ⁸ par-sonaliter in MS.
+Ο C
+
